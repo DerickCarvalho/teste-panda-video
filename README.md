@@ -45,3 +45,7 @@ Resolução de teste técnico para desenvolvedor front-end.
 - Coisas que eu faria em um projeto maior:
   - Para casos de clientes com uma grande quantidade de vídeos e pastas, seria inviável utilizar array JS normal para tratar essa quantidade de dados, então, em uma breve pesquisa, encontrei a API IndexedDB, então tentaria estudar essa API e implementar.
   - Ainda sobre otimização, durante meus estudos, vi uma técnica chamada virtual-table, que serve para otimizar a renderização de tabelas, então, no caso de um projeto maior, eu buscaria implementar essa técnica para buscar otimizar ainda mais o projeto.
+
+
+**O.B.S.: Durante o desenvolvimento, observei um possivel erro de digitaçao de um dos endpoints na documentação da API. No site está escrito assim: 
+https://api-v2.pandavideo.com.br/videos// com duas barras, e observei que com apenas uma barra continua funcionando normal.**
