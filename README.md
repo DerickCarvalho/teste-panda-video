@@ -40,7 +40,7 @@ Resolução de teste técnico para desenvolvedor front-end.
 # Pontos observados e coisas que eu faria caso não fosse um projeto MVP:
 - Pontos observados:
   - VueJS facilita muito o desenvolvimento do projeto. Por eu estar acostumado a criar projetos usando HTML CSS e JS vanilla, quando parti para o Vue, vi o quanto um framework ajuda o desenvolvedor na hora de criar um projeto como esse do teste, ou projetos maiores.
-  - O Vuefity facilita bastante a criação das interfaces e a melhora do UX, porém no meu caso, ao incluí-lo no projeto, acabei demorando mais que o habitual para desenvolver as páginas, e por isso acabei optando por não fazer as páginas 100% feitas com ele, e sim mesclando um pouco de Vutify com CSS vanilla.
+  - O Vuetify facilita bastante a criação das interfaces e a melhora do UX, porém no meu caso, ao incluí-lo no projeto, acabei demorando mais que o habitual para desenvolver as páginas, e por isso acabei optando por não fazer as páginas 100% feitas com ele, e sim mesclando um pouco de Vutify com CSS vanilla.
 
 - Coisas que eu faria em um projeto maior:
   - Para casos de clientes com uma grande quantidade de vídeos e pastas, seria inviável utilizar array JS normal para tratar essa quantidade de dados, então, em uma breve pesquisa, encontrei a API IndexedDB, então tentaria estudar essa API e implementar.
