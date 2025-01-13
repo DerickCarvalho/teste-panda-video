@@ -48,4 +48,4 @@ Resolução de teste técnico para desenvolvedor front-end.
 
 
 **O.B.S.: Durante o desenvolvimento, observei um possivel erro de digitaçao de um dos endpoints na documentação da API. No site está escrito assim: 
-https://api-v2.pandavideo.com.br/videos// com duas barras, e observei que com apenas uma barra continua funcionando normal.**
+'https://api-v2.pandavideo.com.br/videos//' com duas barras, e observei que com apenas uma barra continua funcionando normal.**
