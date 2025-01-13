@@ -1,0 +1,16 @@
+<template>
+  <router-view/>
+</template>
+
+<style>
+  body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #0f1118;
+  }
+</style>
